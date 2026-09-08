@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Preparation Assistant",
+  "description": "Prepare smarter. Practice better. Crack your interview with confidence. Personalized AI mock interviews, resume analysis, and real-time performance tracking for college students and freshers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
